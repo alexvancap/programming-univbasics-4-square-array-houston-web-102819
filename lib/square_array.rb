@@ -11,4 +11,4 @@ def square_array(array)
 end
 
 array = [1, 2, 3, 4]
-prints square_array(array)
+puts square_array(array)
