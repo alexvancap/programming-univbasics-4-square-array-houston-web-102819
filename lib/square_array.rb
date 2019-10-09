@@ -11,5 +11,4 @@ def square_array(array)
 end
 
 array = [1, 2, 3, 4]
-print square_array(array)
-
+p square_array(array)
